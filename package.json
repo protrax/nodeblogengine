@@ -1,0 +1,35 @@
+{
+  "name": "blogengine",
+  "version": "1.0.0",
+  "description": "node blog engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protrax/nodeblogengine.git"
+  },
+  "keywords": [
+    "Node",
+    "Javascript",
+    "Bootstrap",
+    "Blog",
+    "Blog",
+    "engine",
+    "simple",
+    "blog"
+  ],
+  "author": "Joakim Skansen Flatmoen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protrax/nodeblogengine/issues"
+  },
+  "homepage": "https://github.com/protrax/nodeblogengine#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19"
+  }
+}
